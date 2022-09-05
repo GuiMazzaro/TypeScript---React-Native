@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "competencias",
+    "slug": "competencias",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
